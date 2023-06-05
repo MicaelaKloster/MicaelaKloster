@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Remotasks<br>I'm looking to collaborate on Front-end projects<br>I want to grow professionally<br>I'm currently learning React.js and some design patterns<br>Fun fact : I'm fascinated with graphic design<br>I'm studying web development at college and I would graduate next year<br> <br>
+I'm currently working on Remotasks<br>I'm looking to collaborate on Front-end projects<br>I want to grow professionally<br>I'm currently learning Vue and some design patterns<br>Fun fact : I'm fascinated with graphic design<br>I'm studying web development at college and I would graduate next year<br> <br>
 
 
 ## 🌐 Socials:
